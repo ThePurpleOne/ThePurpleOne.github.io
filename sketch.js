@@ -16,7 +16,7 @@ function create2dArray(columns, row)
 let gGrid;
 let gCol;
 let gRow;
-let gResolution = 7;
+let gResolution = 30;
 let sliderResolution;
     
 function setup() 
